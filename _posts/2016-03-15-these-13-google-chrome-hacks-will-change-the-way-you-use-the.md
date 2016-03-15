@@ -12,10 +12,10 @@ related:
     thumbnail_url: 'http://assets.bwbx.io/images/iILfx2h.N9z4/v1/190x-1.jpg'
     thumbnail_width: 190
 publisher:
-  url: 'http://www.businessinsider.com'
   name: Business Insider
-  favicon: 'http://static3.businessinsider.com/assets/images/us/favicons/favicon.ico?v=zXXjpe0lwg'
   domain: www.businessinsider.com
+  url: 'http://www.businessinsider.com'
+  favicon: 'http://static3.businessinsider.com/assets/images/us/favicons/favicon.ico?v=zXXjpe0lwg'
 keywords:
   - chrome
   - google
@@ -32,13 +32,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.businessinsider.com/the-13-best-google-chrome-life-hacks-2015-11'
 title: These 13 Google Chrome hacks will change the way you use the internet
-datePublished: '2016-03-15T02:27:32.144Z'
-dateModified: '2016-03-15T02:13:10.438Z'
+datePublished: '2016-03-15T02:54:39.519Z'
+dateModified: '2016-03-15T02:32:56.974Z'
 sourcePath: _posts/2016-03-15-these-13-google-chrome-hacks-will-change-the-way-you-use-the.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: false
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
