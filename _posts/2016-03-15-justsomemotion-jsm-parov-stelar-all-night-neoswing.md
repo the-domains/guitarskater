@@ -14,8 +14,8 @@ description: "Hi, my name is JustSomeMotion. At the moment this channel is all a
 app_links: []
 isBasedOnUrl: 'https://www.youtube.com/watch?v=5ueJ4-lTa1s'
 title: 'JustSomeMotion (JSM) - Parov Stelar - All Night - #neoswing'
-datePublished: '2016-03-15T03:15:35.093Z'
-dateModified: '2016-03-15T03:14:17.383Z'
+datePublished: '2016-03-15T03:52:41.345Z'
+dateModified: '2016-03-15T03:35:58.771Z'
 sourcePath: _posts/2016-03-15-justsomemotion-jsm-parov-stelar-all-night-neoswing.md
 published: true
 inFeed: true
